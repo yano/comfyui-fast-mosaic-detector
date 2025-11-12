@@ -60,17 +60,17 @@ You can find the example workflow here:
 # ✅ 特徴
 
 ### ✅ FAST モード
-- 約3秒（80フレームの場合）  
+- 840[frames]x640x480[pixels]の場合、RTX3090で約3秒　→　14-21fps  
 - 誤検出気味になることも  
 - とにかく素早く結果を見たい場合に
 
 ### ✅ ACCURATE モード
-- 約420秒  
+- 840[frames]x640x480[pixels]の場合、RTX3090で約420秒  →　0.5fps 
 - 最高の精度  
 - 全画面を詳細解析するため重い
 
 ### ✅ HYBRID モード（推奨）
-- 約40〜60秒  
+- 840[frames]x640x480[pixels]の場合、RTX3090で約40〜60秒　→　14～21fps  
 - ACCURATE に近い品質  
 - 実用上最もバランスが良い
 
