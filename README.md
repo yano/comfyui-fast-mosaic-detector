@@ -29,16 +29,20 @@ HYBRID mode typically achieves:
 
 ---
 
-## Example Input / Output
-
-### Workflow Screenshot
+## Workflow Screenshot
 ![Workflow Screenshot](assets/examples/ScreenShot.jpg)
 
-### Input Video
-![example_input.mp4](assets/examples/example_input.mp4)
+## Input Video
 
-### Output Video (Image&Mask Blend)
-![example_output.mp4](assets/examples/example_output.mp4)
+https://github.com/user-attachments/assets/17b95590-77cc-435e-8df1-6cf04604c46b
+
+[example_input.mp4](assets/examples/example_input.mp4)
+
+## Output Video (Image&Mask Blend)
+
+https://github.com/user-attachments/assets/28731ee8-8a11-4971-af86-5be63b44a870
+
+[example_output.mp4](assets/examples/example_output.mp4)
 
 ---
 
