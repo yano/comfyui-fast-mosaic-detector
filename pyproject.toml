@@ -1,5 +1,5 @@
 [project]
-name = "fast-mosaic-detector"
+name = "comfyui-fast-mosaic-detector"
 description = "High-speed and high-accuracy mosaic detection node for ComfyUI. Supports FAST, ACCURATE, and HYBRID modes with ROI refinement."
 version = "1.0.0"
 license = {file = "LICENSE"} 
@@ -29,7 +29,7 @@ Documentation = "https://github.com/yano/comfyui-fast-mosaic-detector/wiki"
 "Bug Tracker" = "https://github.com/yano/comfyui-fast-mosaic-detector/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "yano"
 DisplayName = "comfyui-fast-mosaic-detector"
 Icon = ""
 includes = [] 
