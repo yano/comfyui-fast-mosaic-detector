@@ -1,7 +1,7 @@
 {
   "name": "comfyui-fast-mosaic-detector",
   "display_name": "Fast Mosaic Detector (Hybrid / Fast / Accurate)",
-  "version": "1.0.0",
+  "version": "v1.0.2",
   "author": "Takahiro Yano",
   "description": "High-speed and high-accuracy mosaic detection node for ComfyUI. Provides FAST GPU mode, ACCURATE full-scan mode, and HYBRID mode with ROI refinement. Optimized for video workflows.",
   "tags": [
