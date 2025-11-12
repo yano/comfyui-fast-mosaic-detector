@@ -17,12 +17,12 @@
   "python_version": "3.10",
   "dependencies": [],
   "files": {
-    "fast_mosaic_detector_hybrid.py": "custom_nodes/comfyui-fast-mosaic-detector/fast_mosaic_detector_hybrid.py",
-    "fast_mosaic_detector_fast.py": "custom_nodes/comfyui-fast-mosaic-detector/fast_mosaic_detector_fast.py",
-    "fast_mosaic_detector_accurate.py": "custom_nodes/comfyui-fast-mosaic-detector/fast_mosaic_detector_accurate.py",
+    "fast_mosaic_detector_hybrid.py": "fast_mosaic_detector_hybrid.py",
+    "fast_mosaic_detector_fast.py": "fast_mosaic_detector_fast.py",
+    "fast_mosaic_detector_accurate.py": "fast_mosaic_detector_accurate.py",
 
-    "example_workflow/": "custom_nodes/comfyui-fast-mosaic-detector/example_workflow/",
+    "example_workflow/": "example_workflow/",
 
-    "assets/examples/": "custom_nodes/comfyui-fast-mosaic-detector/assets/examples/"
+    "assets/examples/": "assets/examples/"
   }
 }

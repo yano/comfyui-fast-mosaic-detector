@@ -16,7 +16,7 @@ FAST / ACCURATE / HYBRID の 3 モードを搭載し、HYBRID では
 - **推定モザイクサイズ**
 
 を出力します。
-
+[README.md](README.md)
 内部的には以下の2系統の検出器を組み合わせています：
 
 - **Bモード（FAST）**：CUDA対応の高速検出器  
@@ -33,13 +33,13 @@ HYBRIDは
 ## Example Input / Output
 
 ### Workflow Screenshot
-![Workflow Screenshot](custom_nodes/comfyui-fast-mosaic-detector/assets/examples/ScreenShot.jpg)
+![Workflow Screenshot](assets/examples/ScreenShot.jpg)
 
 ### Input Video
-[example_input.mp4](custom_nodes/comfyui-fast-mosaic-detector/assets/examples/example_input.mp4)
+[example_input.mp4](assets/examples/example_input.mp4)
 
 ### Output Video (Image&Mask Blend)
-[example_output.mp4](custom_nodes/comfyui-fast-mosaic-detector/assets/examples/example_output.mp4)
+[example_output.mp4](assets/examples/example_output.mp4)
 
 ---
 
@@ -47,7 +47,7 @@ HYBRIDは
 
 You can find the example workflow here:
 
-💾 [FastMosaicDetectorExample.json](custom_nodes/comfyui-fast-mosaic-detector/example_workflow/FastMosaicDetectorExample.json)
+💾 [FastMosaicDetectorExample.json](example_workflow/FastMosaicDetectorExample.json)
 
 ---
 

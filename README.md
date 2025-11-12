@@ -32,13 +32,13 @@ HYBRID mode typically achieves:
 ## Example Input / Output
 
 ### Workflow Screenshot
-![Workflow Screenshot](custom_nodes/comfyui-fast-mosaic-detector/assets/examples/ScreenShot.jpg)
+![Workflow Screenshot](assets/examples/ScreenShot.jpg)
 
 ### Input Video
-[example_input.mp4](custom_nodes/comfyui-fast-mosaic-detector/assets/examples/example_input.mp4)
+[example_input.mp4](assets/examples/example_input.mp4)
 
 ### Output Video (Image&Mask Blend)
-[example_output.mp4](custom_nodes/comfyui-fast-mosaic-detector/assets/examples/example_output.mp4)
+[example_output.mp4](assets/examples/example_output.mp4)
 
 ---
 
@@ -46,7 +46,7 @@ HYBRID mode typically achieves:
 
 You can find the example workflow here:
 
-💾 [FastMosaicDetectorExample.json](custom_nodes/comfyui-fast-mosaic-detector/example_workflow/FastMosaicDetectorExample.json)
+💾 [FastMosaicDetectorExample.json](example_workflow/FastMosaicDetectorExample.json)
 
 ---
 
@@ -196,7 +196,7 @@ Automatically downscale large ROIs to accelerate refinement.
 Useful for rejecting window frames, bars, non-mosaic patterns.
 
 ---
-
+[manifest.json](manifest.json)
 # ✅ Output
 
 - `mask` — 0/255 binary mosaic mask  
