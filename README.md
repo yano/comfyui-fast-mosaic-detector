@@ -57,17 +57,17 @@ You can find the example workflow here:
 # ✅ Features
 
 ### **FAST Mode**
-- ~3 sec for ~80 frames  
+- ~4 sec for 840[frames]x640x480[pixels] @RTX3090 (210fps)
 - May over-detect  
 - Best for quick estimation
 
 ### **ACCURATE Mode**
-- ~420 sec for ~80 frames  
+- ~420 sec for 840[frames]x640x480[pixels] @RTX3090 (0.5fps)
 - Best precision  
 - Full-frame exhaustive scan
 
 ### **HYBRID Mode (Recommended)**
-- ~40–60 sec for ~80 frames  
+- ~40–60 sec for 840[frames]x640x480[pixels] @RTX3090 (14-21fps)
 - Near-accurate quality  
 - Smart ROI refinement  
 - Recommended for most use cases
