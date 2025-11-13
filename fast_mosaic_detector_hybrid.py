@@ -119,7 +119,7 @@ class MosaicDetectionHybridNode:
                 "ratio_threshold": ("FLOAT", {"default": 2.74, "min": 0.0, "max": 20.0, "step":0.01}),
                 "histogram_threshold": ("FLOAT", {"default": 0.1, "min": 0.0, "max": 1.0, "step":0.01}),
                 "mosaic_length_min": ("INT", {"default": 4, "min": 2, "max": 64}),
-                "mosaic_length_max": ("INT", {"default": 25, "min": 3, "max": 128}),
+                "mosaic_length_max": ("INT", {"default": 40, "min": 3, "max": 128}),
                 "intersection_margin": ("INT", {"default": 5, "min": 0, "max": 50}),
                 "gradient_band_height": ("INT", {"default": 1, "min": 1, "max": 8}),
                 "gradient_band_half_width": ("INT", {"default": 15, "min": 1, "max": 64}),
