@@ -60,7 +60,7 @@ You can find the example workflow here:
 # ✅ 特徴
 
 ### ✅ FAST モード
-- 840[frames]x640x480[pixels]の場合、RTX3090で約3秒　→　14-21fps  
+- 840[frames]x640x480[pixels]の場合、RTX3090で約4秒　→　210fps  
 - 誤検出気味になることも  
 - とにかく素早く結果を見たい場合に
 
