@@ -50,9 +50,7 @@ https://github.com/user-attachments/assets/28731ee8-8a11-4971-af86-5be63b44a870
 
 ## Example Workflow
 
-You can find the example workflow here:
-
-💾 [FastMosaicDetectorExample.json](example_workflow/FastMosaicDetectorExample.json)
+example_workflow フォルダをみてください。
 
 ---
 
