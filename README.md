@@ -232,6 +232,8 @@ mode = FAST
 
 - This node is fully compatible with ComfyUI-VideoHelperSuite for loading video frames and saving processed video outputs. If you plan to use this node with video workflows, installing VideoHelperSuite is strongly recommended.
 
+- When processing Full HD video, we recommend downsizing the image to 0.5 to 0.75 times its original size, as this allows for sufficiently accurate estimation at a faster speed. Since the estimable mosaic size is approximately 4 to 30 pixels, we recommend resizing the image so that the mosaic fits within this size range.
+
 ---
 
 # ✅ License
